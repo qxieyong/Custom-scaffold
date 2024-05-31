@@ -8,9 +8,9 @@ $ yarn global add wuyou-cli
 
 ### 借助npx
 创建模版
-$ npx create wuyou-cli <name> [-t|--template]
+$ npx wuyou-cli create <name> [-t|--template]
 示例
-$ npx create wuyou-cli hello-cli -template dumi2-demo
+$ npx wuyou-cli create hello-cli -template dumi2-demo
 
 ## 使用
 创建模版
